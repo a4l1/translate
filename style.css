@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.slovar{
+    height: 50rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.fruit {
+    width: 500px;
+    height: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(54, 237, 133);
+    border-image: initial;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+
+.fruit:hover{
+    color:white;
+    background-color:rgb(87, 179, 237);
+    border: none;
+}
