@@ -33,7 +33,7 @@ switch(slovar){
             break;
 
         case "gilos":
-            alert("Черушня")
+            alert("черешня")
             alert("Cherries")
             break;
 
@@ -81,6 +81,22 @@ switch(slovar){
                     alert("melon")
                     alert("хандаляк")
                     break;
+
+                    case "ko'ksulton":
+                        alert("koksulton")
+                        alert("коксултан")
+                        break;
+
+
+                        case "dovcha":
+                            alert("green(unripe) apricot")
+                            alert("зелёрый урюк")
+                            break;
+
+                            case "olxo'ri":
+                                alert("plum")
+                                alert("слива")
+                                break;
         // sabzavotlar
         case "kartoshka":
             alert("Картофель")
@@ -148,7 +164,21 @@ switch(slovar){
                         alert("марковь")
                         break;
 
-                    
+
+
+                        case "gulkaram":
+                            alert("cauliflower")
+                            alert("цветная капуста")
+                            break;
+
+                        case "sholg'om":
+                            alert("turnip")
+                            alert("рупа")
+                            break;
+
+                            case "rediska":
+                                alert("radis")
+                                alert("редиска")
 
 
 
