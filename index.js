@@ -136,7 +136,7 @@ switch(slovar){
 
                 case "qovoq":
                     alert("Цуккини")
-                    alert("eyelid")
+                    alert("pumpkin")
                     break;
 
                 case "ismaloq":
