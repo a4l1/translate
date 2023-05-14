@@ -137,6 +137,6 @@ switch(slovar){
 
 
         default:
-            alert("bu hato")
+            alert("bu xato")
            
 }
