@@ -71,6 +71,16 @@ switch(slovar){
             alert("Банан")
             alert("Banana")
             break;
+
+            case "qovun":
+                alert("melon")
+                alert("дЫня")
+                break;
+
+                case "handalak":
+                    alert("melon")
+                    alert("хандаляк")
+                    break;
         // sabzavotlar
         case "kartoshka":
             alert("Картофель")
@@ -133,6 +143,12 @@ switch(slovar){
                     alert("egg-plant")
                     break;
 
+                    case "sabzi":
+                        alert("carrot")
+                        alert("марковь")
+                        break;
+
+                    
 
 
 
